@@ -4,11 +4,11 @@
 
 ---
 
-### About Me
+## Hi there, I'm Arpit! 👋
 
-I'm **Arpit Arora**, a Postdoctoral Scholar in the [Department of Astronomy](https://astro.washington.edu/) at the **University of Washington** and a **Moore Foundation Fellow** (2024--). I grew up in New Delhi, India, received my B.S. in Physics & Astrophysics from the University of Minnesota, and completed my Ph.D. in Physics & Astronomy at the University of Pennsylvania in 2024.
+I'm a **Moore Foundation Fellow** (2024--) and Postdoctoral Scholar in the [Department of Astronomy](https://astro.washington.edu/) at the **University of Washington**, specializing in the intersection of **dark matter** and **galactic dynamics**. Originally from New Delhi, India, I completed my Ph.D. at the University of Pennsylvania (2024) after receiving my B.S. from the University of Minnesota.
 
-I study **dark matter** -- its nature, distribution, and how it shapes the formation and evolution of galaxies and the universe. These properties manifest at galactic scales, making the **Milky Way** an ideal laboratory. My work combines tailored dynamical tools built for the **disequilibrium regime** with zoomed-in hydrodynamical cosmological simulations to model the asymmetric dark matter distribution in the Milky Way. I am also interested in alternative dark matter models such as self-interacting and atomic dark matter. Currently, I am focused on understanding the evolution of **stellar streams** -- the tidal remnants of disrupted satellite galaxies -- in a **fully time-evolving Milky Way** and how they can help constrain the distribution and particle properties of dark matter.
+My work treats the **Milky Way** as a primary laboratory for understanding how dark matter shapes the evolution of galaxies. By combining zoomed hydrodynamical cosmological simulations with tailored dynamical tools made for the **disequilibrium regime**, I model the asymmetric distribution of dark matter. I am also interested in alternative dark matter models such as self-interacting and atomic dark matter. Currently, I am focused on understanding the evolution of **stellar streams** -- the tidal remnants of disrupted satellite galaxies -- in a **fully time-evolving Milky Way** and how they can help constrain the distribution and particle properties of dark matter.
 
 ---
 
