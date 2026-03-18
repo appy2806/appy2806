@@ -6,11 +6,9 @@
 
 ### About Me
 
-I'm **Arpit Arora**, a Postdoctoral Scholar in the [Department of Astronomy](https://astro.washington.edu/) at the **University of Washington** and a **Moore Foundation Fellow**. Originally from New Delhi, India, I earned my B.S. in Physics & Astrophysics from the University of Minnesota and my Ph.D. in Physics & Astronomy from the University of Pennsylvania (2024).
+I'm **Arpit Arora**, a Postdoctoral Scholar in the [Department of Astronomy](https://astro.washington.edu/) at the **University of Washington** and a **Moore Foundation Fellow** (2024--). I grew up in New Delhi, India, received my B.S. in Physics & Astrophysics from the University of Minnesota, and completed my Ph.D. in Physics & Astronomy at the University of Pennsylvania in 2024.
 
-My research focuses on understanding **dark matter** and its influence on galaxy formation and evolution in the context of our own Galaxy. I model and quantify the asymmetric distribution of dark matter in the Milky Way by building tailored tools that operate in the **disequilibrium regime** and zoomed hydrodynamical cosmological simulations of Milky Way-mass galaxies. I use **stellar streams** -- disrupted satellite galaxies -- as probes of dark matter, and I'm also interested in **self-interacting dark matter** and its effects at galactic scales.
-
-Currently, I'm focused on using stellar streams as probes of dark matter in a **fully time-evolving host**, working to understand the distribution and particle properties of dark matter and how it governs the evolution and assembly of galaxies.
+I study **dark matter** through the lens of our own Galaxy. My work combines tailored dynamical tools built for the **disequilibrium regime** with zoomed-in hydrodynamical cosmological simulations to model the asymmetric dark matter distribution in the Milky Way. I use **stellar streams** -- the tidal remnants of disrupted satellite galaxies -- as sensitive probes of dark matter structure, and I explore how **self-interacting dark matter** manifests at galactic scales. Currently, I am focused on tracing dark matter in a **fully time-evolving Milky Way**, aiming to constrain both its distribution and particle properties, and to understand how it shapes the assembly and evolution of galaxies.
 
 ---
 
@@ -18,12 +16,11 @@ Currently, I'm focused on using stellar streams as probes of dark matter in a **
 
 | Year | Title |
 |:----:|:------|
-| 2025 | [Breaking Down the CosmoGEMS: Modeling Globular Cluster Stellar Streams in a Fully Cosmological Context](https://arxiv.org/abs/2509.03599) |
-| 2024 | [Auriga Streams II: Orbital Properties of Tidally Disrupting Satellites of MW-mass Galaxies](https://arxiv.org/abs/2410.09143) |
-| 2024 | [LMC-driven Anisotropic Boosts in Stream-Subhalo Interactions](https://arxiv.org/abs/2309.15998) |
-| 2023 | [The Dark Side of FIRE: Predicting the Population of DM Subhaloes around MW-mass Galaxies](https://arxiv.org/abs/2303.05527) |
-| 2022 | [On the Stability of Tidal Streams in Action Space](https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FFoo0PCcyQRuwOWcZNDtIlw)&sort=date%20desc%2C%20bibcode%20desc) |
-| 2022 | [Public Data Release of the FIRE-2 Cosmological Zoom-in Simulations](https://arxiv.org/abs/2202.06969) |
+| 2026 | [Breaking Down the CosmoGEMS: Modeling GC Stellar Streams in a Cosmological Context](https://iopscience.iop.org/article/10.3847/1538-4357/ae2ea7/meta) |
+| 2025 | Shaping the Milky Way [I](https://iopscience.iop.org/article/10.3847/1538-4357/ade30d/meta), [II](https://arxiv.org/abs/2511.02031) |
+| 2024 | [LMC-driven Anisotropic Boosts in Stream--Subhalo Interactions](https://iopscience.iop.org/article/10.3847/1538-4357/ad7375/meta) |
+| 2023 | [Public Data Release of the FIRE-2 Cosmological Zoom-in Simulations](https://iopscience.iop.org/article/10.3847/1538-4365/acb99a/meta) |
+| 2022 | [On the Stability of Tidal Streams in Action Space](https://iopscience.iop.org/article/10.3847/1538-4357/ac93fb/meta) |
 
 <p align="center">
   <a href="https://ui.adsabs.harvard.edu/search/p_=0&q=docs(library%2FFoo0PCcyQRuwOWcZNDtIlw)&sort=date%20desc%2C%20bibcode%20desc">
@@ -33,58 +30,66 @@ Currently, I'm focused on using stellar streams as probes of dark matter in a **
 
 ---
 
-### Tech Stack & Tools
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   <img src="https://img.shields.io/badge/JAX-A435F0?style=for-the-badge&logo=google&logoColor=white" alt="JAX"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
 </p>
 
 ---
 
-### Featured Repositories
+### Featured Projects
 
-<p align="center">
-  <a href="https://github.com/appy2806/Nbody_streams">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=appy2806&repo=Nbody_streams&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Nbody_streams"/>
-  </a>
-  <a href="https://github.com/appy2806/streamsculptor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=appy2806&repo=streamsculptor&theme=github_dark&hide_border=true&bg_color=0d1117" alt="streamsculptor"/>
-  </a>
-  <a href="https://github.com/appy2806/XMC-Atlas-Agama">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=appy2806&repo=XMC-Atlas-Agama&theme=github_dark&hide_border=true&bg_color=0d1117" alt="XMC-Atlas-Agama"/>
-  </a>
+<table align="center">
+<tr>
+<td align="center" width="600">
+
+#### [`Nbody_streams`](https://github.com/appy2806/Nbody_streams)
+
+**GPU-accelerated N-body simulation toolkit for stellar stream modeling**
+
+A full-blown package for running N-body simulations of stellar streams in an external, time-evolving galactic potential. Features custom, highly optimized **CUDA kernels for direct N-body** and a **GPU tree-code** via CuPy and Numba, with support for both CPU and GPU architectures. Integrates with [Agama](https://github.com/GalacticDynamics-Oxford/Agama) and pyfalcON for flexible gravitational force evaluation.
+
+<p>
+  <img src="https://img.shields.io/badge/CUDA-Tree%20Code-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Numba%20%2F%20CuPy-14354C?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/appy2806/Nbody_streams?style=flat-square&color=58a6ff"/>
+  <img src="https://img.shields.io/github/forks/appy2806/Nbody_streams?style=flat-square&color=30363d"/>
 </p>
+
+<a href="https://github.com/appy2806/Nbody_streams">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=appy2806&repo=Nbody_streams&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Nbody_streams"/>
+</a>
+
+</td>
+</tr>
+<tr>
+<td align="center" width="600">
+
+#### [`XMC-Atlas-Agama`](https://github.com/appy2806/XMC-Atlas-Agama)
+
+Atlas of multipole expansion coefficients for Milky Way--LMC systems computed from FIRE-2 cosmological simulations using spherical and azimuthal harmonics.
+
+<a href="https://github.com/appy2806/XMC-Atlas-Agama">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=appy2806&repo=XMC-Atlas-Agama&theme=github_dark&hide_border=true&bg_color=0d1117" alt="XMC-Atlas-Agama"/>
+</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=appy2806&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="170"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=appy2806&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=appy2806&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</p>
-
----
-
-### Fun Facts
+### Beyond Research
 
 - :badminton: Played badminton at the **national level**
 - :parachute: Skydiving enthusiast
 - :drum: Drummer
-- :india: Born and raised in **New Delhi, India**
+- :camera: Astrophotographer
 
 ---
 
