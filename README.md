@@ -17,7 +17,7 @@ I study **dark matter** through the lens of our own Galaxy. My work combines tai
 | Year | Title |
 |:----:|:------|
 | 2026 | [Breaking Down the CosmoGEMS: Modeling GC Stellar Streams in a Cosmological Context](https://iopscience.iop.org/article/10.3847/1538-4357/ae2ea7/meta) |
-| 2025 | Shaping the Milky Way [I](https://iopscience.iop.org/article/10.3847/1538-4357/ade30d/meta), [II](https://arxiv.org/abs/2511.02031) |
+| 2025 | [Shaping the Milky Way: The Interplay of Mergers and Cosmic Filaments](https://iopscience.iop.org/article/10.3847/1538-4357/ade30d/meta) |
 | 2024 | [LMC-driven Anisotropic Boosts in Stream--Subhalo Interactions](https://iopscience.iop.org/article/10.3847/1538-4357/ad7375/meta) |
 | 2023 | [Public Data Release of the FIRE-2 Cosmological Zoom-in Simulations](https://iopscience.iop.org/article/10.3847/1538-4365/acb99a/meta) |
 | 2022 | [On the Stability of Tidal Streams in Action Space](https://iopscience.iop.org/article/10.3847/1538-4357/ac93fb/meta) |
