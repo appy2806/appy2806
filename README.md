@@ -86,7 +86,7 @@ Atlas of multipole expansion coefficients for Milky Way--LMC systems computed fr
 
 ### Beyond Research
 
-- :badminton: Played badminton at the **national level**
+- :badminton: National level badminton player
 - :parachute: Skydiving enthusiast
 - :drum: Drummer
 - :camera: Astrophotographer
