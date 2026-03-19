@@ -96,6 +96,9 @@ Atlas of multipole expansion coefficients for Milky Way--LMC systems computed fr
 ### Connect With Me
 
 <p align="center">
+  <a href="https://www.arpitarora.space">
+    <img src="https://img.shields.io/badge/Website-arpitarora.space-4FC3F7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
   <a href="mailto:aroraarpit2806@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -116,3 +119,4 @@ Atlas of multipole expansion coefficients for Milky Way--LMC systems computed fr
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=appy2806&color=58a6ff&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </p>
+
