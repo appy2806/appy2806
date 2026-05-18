@@ -16,7 +16,7 @@ My work treats the **Milky Way** as a primary laboratory for understanding how d
 
 | Year | Title |
 |:----:|:------|
-| 2026 | [Breaking Down the CosmoGEMS: Modeling GC Stellar Streams in a Cosmological Context](https://iopscience.iop.org/article/10.3847/1538-4357/ae2ea7/meta) |
+| 2026 | [No Stream Left Unscathed: The imprint of a host galaxy](https://arxiv.org/abs/2605.16200) |
 | 2025 | [Shaping the Milky Way: The Interplay of Mergers and Cosmic Filaments](https://iopscience.iop.org/article/10.3847/1538-4357/ade30d/meta) |
 | 2024 | [LMC-driven Anisotropic Boosts in Stream--Subhalo Interactions](https://iopscience.iop.org/article/10.3847/1538-4357/ad7375/meta) |
 | 2023 | [Public Data Release of the FIRE-2 Cosmological Zoom-in Simulations](https://iopscience.iop.org/article/10.3847/1538-4365/acb99a/meta) |
